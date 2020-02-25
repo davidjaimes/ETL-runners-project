@@ -1,13 +1,13 @@
 create table results (
-	runnerid as int primary key,
-	firstname as varchar,
-	lastname as varchar,
-	age as int,
-	bib as int,
-	birthdate as varchar,
-	gender as varchar,
-	overallplace as int,
-	overalltime as varchar
+	runnerid int primary key,
+	firstname varchar,
+	lastname varchar,
+	age int,
+	bib int,
+	birthdate varchar,
+	gender varchar,
+	overallplace int,
+	overalltime varchar
 );
 
 select * from results;
