@@ -19,3 +19,10 @@
 `extract_nyc_census.ipynb`: Jupyter Notebook to clean data and import to postgresSQL using Pandas.
 
 `nyc_population_table.sql`: SQL file (schema) used to import to postgresSQL.
+
+## Steven_Q
+`create-multi-index.ipynb`: Jupyter Notebook used to trasnform runner times data from strings to dataframes.
+
+`Runner_Times_For_Join.sql`: Microsoft SQL Server file to manually import saved Runner_Times.csv data.
+
+`runner_times_postgres.sql`: postgresSQL file to manually import saved Runner_Times.csv data.
