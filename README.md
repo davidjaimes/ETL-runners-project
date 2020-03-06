@@ -1,6 +1,6 @@
 # ETL-runners-project
 
-## Directory: jaimes
+## jaimes
 `0-event-runner.py`: Use to get each runner's marathon results.
 
 `1-get-split.py`: Use to get each runner's splits results.
@@ -12,3 +12,10 @@
 `import-to-sql.ipynb`: Jupyter Notebook used to clean data and upload to postgresSQL using Pandas.
 
 `runner-results.sql`: SQL file (schema) used to import to postgresSQL.
+
+## thudium
+`totpop_singage_sex2010_boro.xlsx`: 2010 US Census population data based on age and NYC borough.
+
+`extract_nyc_census.ipynb`: Jupyter Notebook to clean data and import to postgresSQL using Pandas.
+
+`nyc_population_table.sql`: SQL file (schema) used to import to postgresSQL.
