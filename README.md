@@ -1,5 +1,7 @@
 # ETL-runners-project
 
+We have a master SQL file named `master_import_join_data.sql` that creates all three tables from jaimes, Steven_Q, and thudium directories. The correspoding CSV data files are in each directory and file names are annotated in the master SQL file for easy import to postgresSQL (pgAdmin4). Once all three tables have been imported, you can use the last three lines of code in the master SQL file to join all three tables. Have fun with this data!
+
 ## jaimes
 `0-event-runner.py`: Use to get each runner's marathon results.
 
