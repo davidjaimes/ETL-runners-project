@@ -15,6 +15,15 @@
 
 `final-nyc-marathon-2010.csv`: Data used to manually import to postgresSQL.
 
+## Steven_Q
+`create-multi-index.ipynb`: Jupyter Notebook used to trasnform runner times data from strings to dataframes.
+
+`Runner_Times_For_Join.sql`: Microsoft SQL Server file to manually import saved Runner_Times.csv data.
+
+`runner_times_postgres.sql`: postgresSQL file to manually import saved Runner_Times.csv data.
+
+`Runner_Times.csv`: Data used to manually import to postgresSQL.
+
 ## thudium
 `totpop_singage_sex2010_boro.xlsx`: 2010 US Census population data based on age and NYC borough.
 
@@ -23,10 +32,3 @@
 `nyc_population_table.sql`: SQL file (schema) used to import to postgresSQL.
 
 `clean_census_data.csv`: Data used to manually import to postgresSQL.
-
-## Steven_Q
-`create-multi-index.ipynb`: Jupyter Notebook used to trasnform runner times data from strings to dataframes.
-
-`Runner_Times_For_Join.sql`: Microsoft SQL Server file to manually import saved Runner_Times.csv data.
-
-`runner_times_postgres.sql`: postgresSQL file to manually import saved Runner_Times.csv data.
