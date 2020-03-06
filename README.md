@@ -18,9 +18,11 @@
 ## thudium
 `totpop_singage_sex2010_boro.xlsx`: 2010 US Census population data based on age and NYC borough.
 
-`extract_nyc_census.ipynb`: Jupyter Notebook to clean data and import to postgresSQL using Pandas.
+`extract_nyc_census.ipynb`: Jupyter Notebook to clean data and save data.
 
 `nyc_population_table.sql`: SQL file (schema) used to import to postgresSQL.
+
+`clean_census_data.csv`: Data used to manually import to postgresSQL.
 
 ## Steven_Q
 `create-multi-index.ipynb`: Jupyter Notebook used to trasnform runner times data from strings to dataframes.
