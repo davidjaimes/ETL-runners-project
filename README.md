@@ -13,6 +13,8 @@
 
 `runner-results.sql`: SQL file (schema) used to import to postgresSQL.
 
+`final-nyc-marathon-2010.csv`: Data used to manually import to postgresSQL.
+
 ## thudium
 `totpop_singage_sex2010_boro.xlsx`: 2010 US Census population data based on age and NYC borough.
 
